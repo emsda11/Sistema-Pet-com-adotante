@@ -2,11 +2,6 @@
 
 Projeto em Java Spring Boot com API REST, HTML, CSS e JavaScript.
 
-## Correção feita
-
-A tela de adotante agora usa um campo de seleção para escolher o pet desejado.
-Assim, a pessoa não precisa digitar o ID manualmente.
-
 ## Estrutura
 
 ```text
