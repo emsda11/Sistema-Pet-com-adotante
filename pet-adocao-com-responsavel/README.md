@@ -1,4 +1,4 @@
-# Sistema de Adoção de Pets com Adotante - Corrigido
+# Sistema de Adoção de Pets com Responsável
 
 Projeto em Java Spring Boot com API REST, HTML, CSS e JavaScript.
 
